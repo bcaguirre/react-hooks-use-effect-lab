@@ -19,6 +19,8 @@ function App() {
     }
   }
 
+  console.log(setQuestions);
+
   return (
     <main>
       <section>
